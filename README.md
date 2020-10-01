@@ -17,7 +17,7 @@ github: https://github.com/damphat
 - [damphat.Json](https://github.com/damphat/damphat.Json)
 - [Calculator](https://github.com/damphat/Calculator)
 - [kv-bash](https://github.com/damphat/kv-bash)
-- and mores
+- [and mores](https://github.com/damphat)
 
 ### Gists (1)
 - [apt-rdepends-tree](https://gist.github.com/damphat/6214499)
