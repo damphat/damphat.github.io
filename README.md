@@ -24,5 +24,6 @@ stackoverflow: https://stackoverflow.com/users/813080
 - [apt-rdepends-tree](https://gist.github.com/damphat/6214499)
 
 ### Others
-- [npm packages](https://www.npmjs.com/~damphat)
-- [nuget packages](https://www.nuget.org/profiles/damphat)
+- [nodejs - npm packages](https://www.npmjs.com/~damphat)
+- [C# - nuget packages](https://www.nuget.org/profiles/damphat)
+- [dart & flutter - pub.dev packages](https://pub.dev/packages/json5)
